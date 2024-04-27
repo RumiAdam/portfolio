@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Rumi Adam"
-  avatar           : "/images/" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "+1 (415) 697 43 88"
   location         : "San Francisco"
   email            : "rumiadam@hotmail.com"
