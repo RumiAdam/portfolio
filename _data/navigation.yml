@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume-cv/
+#  - title: "Certificates"
+ #   url: /certificates/
+# - title: "Data Visualization"
+#   url: /data-visualization/
+# - title: "Data Management"
+#   url: /data-management/
